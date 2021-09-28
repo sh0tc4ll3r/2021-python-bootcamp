@@ -1,1 +1,0 @@
-"# 2021-python-bootcamp"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin git@github.com:3threes3/2021-python-bootcamp.gitgit push -u origin main
